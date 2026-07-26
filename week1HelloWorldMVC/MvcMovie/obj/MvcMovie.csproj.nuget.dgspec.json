@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ingram\\source\\repos\\week1HelloWorldMVC\\MvcMovie\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj": {}
+    "D:\\ProgramData\\PRT681-PRT585-SOFTWARE-ENGINEERING-PRACTICE\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ingram\\source\\repos\\week1HelloWorldMVC\\MvcMovie\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj": {
+    "D:\\ProgramData\\PRT681-PRT585-SOFTWARE-ENGINEERING-PRACTICE\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ingram\\source\\repos\\week1HelloWorldMVC\\MvcMovie\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "D:\\ProgramData\\PRT681-PRT585-SOFTWARE-ENGINEERING-PRACTICE\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\ingram\\source\\repos\\week1HelloWorldMVC\\MvcMovie\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "D:\\ProgramData\\PRT681-PRT585-SOFTWARE-ENGINEERING-PRACTICE\\week1HelloWorldMVC\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\ingram\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ingram\\source\\repos\\week1HelloWorldMVC\\MvcMovie\\week1HelloWorldMVC\\MvcMovie\\obj\\",
+        "outputPath": "D:\\ProgramData\\PRT681-PRT585-SOFTWARE-ENGINEERING-PRACTICE\\week1HelloWorldMVC\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
