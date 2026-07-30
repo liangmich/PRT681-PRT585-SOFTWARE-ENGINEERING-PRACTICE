@@ -10,6 +10,7 @@ public class Movie
     [StringLength(100)]
     public string? Name { get; set; }
 
+    [Required]
     [Display(Name = "Release Date")]
     [DataType(DataType.Date)]
     public DateTime ReleaseDate { get; set; }
@@ -26,7 +27,6 @@ public class Movie
     [Required]
     public Language Language { get; set; }
 
-    // 关联 Category:一部电影属于一个分类,不能为空
     [Required]
     [Display(Name = "Category")]
     public int CategoryId { get; set; }
