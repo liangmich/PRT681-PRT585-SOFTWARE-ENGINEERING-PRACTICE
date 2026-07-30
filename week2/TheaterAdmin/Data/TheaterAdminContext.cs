@@ -15,5 +15,6 @@ namespace TheaterAdmin.Data
         }
 
         public DbSet<TheaterAdmin.Models.Category> Category { get; set; } = default!;
+        public DbSet<TheaterAdmin.Models.Movie> Movie { get; set; } = default!;
     }
 }
